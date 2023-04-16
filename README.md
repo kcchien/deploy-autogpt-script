@@ -24,13 +24,13 @@ This Bash shell script helps you to automatically install the Auto-GPT program o
 2. Download the install-autogpt.sh file from GitHub.
 
    ```bash=
-   curl -O https://raw.githubusercontent.com/kcchien/deploy-autogpt-script/master/install-autogpt.sh
+   curl -O https://raw.githubusercontent.com/kcchien/deploy-autogpt-script/main/install-autogpt.sh
    ```
 
    Alternatively, you can use the wget command to download the file:
 
    ```bash=
-   wget https://raw.githubusercontent.com/kcchien/deploy-autogpt-script/master/install-autogpt.sh
+   wget https://raw.githubusercontent.com/kcchien/deploy-autogpt-script/main/install-autogpt.sh
    ```
 
    Please note that downloading files in this way may be considered unsafe. Users should check the installation script before running it.
